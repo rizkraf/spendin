@@ -18,16 +18,8 @@
       <div
         class="flex flex-col space-y-6 mb-14 md:mb-20 md:items-center md:space-x-6 md:space-y-0 md:flex-row md:justify-center"
       >
-        <button
-          class="bg-primary-500 inline-block font-semibold text-white px-6 py-[13px] rounded-[30px]"
-        >
-          Get a Free Demo
-        </button>
-        <button
-          class="text-secondary-400 inline-block font-semibold px-6 py-[13px] rounded-[30px] md:text-white md:bg-secondary-500"
-        >
-          See Pricing
-        </button>
+        <BaseButton variant="primary">Get a Free Demo</BaseButton>
+        <BaseButton variant="secondary">See Pricing</BaseButton>
       </div>
       <div>
         <img

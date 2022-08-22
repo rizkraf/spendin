@@ -5,23 +5,24 @@
 @font-face {
   font-family: "PlusJakartaSans";
   font-weight: 400;
-  src: url("/fonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf")
+  src: url("~/assets/fonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf")
     format("truetype");
 }
 @font-face {
   font-family: "PlusJakartaSans";
   font-weight: 500;
-  src: url("/fonts/PlusJakartaSans/PlusJakartaSans-Medium.ttf")
+  src: url("~/assets/fonts/PlusJakartaSans/PlusJakartaSans-Medium.ttf")
     format("truetype");
 }
 @font-face {
   font-family: "PlusJakartaSans";
   font-weight: 600;
-  src: url("/fonts/PlusJakartaSans/PlusJakartaSans-SemiBold.ttf")
+  src: url("~/assets/fonts/PlusJakartaSans/PlusJakartaSans-SemiBold.ttf")
     format("truetype");
 }
 @font-face {
   font-family: "PlusJakartaSans";
   font-weight: 700;
-  src: url("/fonts/PlusJakartaSans/PlusJakartaSans-Bold.ttf") format("truetype");
+  src: url("~/assets/fonts/PlusJakartaSans/PlusJakartaSans-Bold.ttf")
+    format("truetype");
 }
